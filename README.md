@@ -1,6 +1,6 @@
 # QNO
 
-You can play QNO at the following colab link. You just need to click the sideways triangle to the left of the code. After running the code for the first time you should put a # in front of the 3rd line of code "!pip install..." this way you don't need to install the Qiskit package each time you run the code. 
+You can play QNO at the following colab link. Afer clicking on the link go to File - Save a Copy in Drive. This will open up a copy of the colab notebook. Now, you can run the code by clicking the arrows to the left of the code. Run block 1 and then run block 2. After running block 1 for the first time you will not need to run it again. So, any time you want to play the game you can just run the second block.
 
 https://colab.research.google.com/drive/102MteHxZYBQtBQ_K1TG1PQ1oXR9EzXnv?usp=sharing
 
